@@ -7,3 +7,5 @@ Instead of obtaining the dataset directly from Kaggle, data was sourced from the
 # Model accuracies
 
 ![image](https://github.com/sashank1079/prediction-flight-delays/assets/122720872/a86a9ac3-4f44-4fda-9250-4dcae5b646ab)
+![image](https://github.com/sashank1079/prediction-flight-delays/assets/122720872/b5229ecd-a916-47ac-ad19-729dccf962ad)
+
